@@ -1,3 +1,3 @@
 public interface Learner {
-    public void study(); //norman
+    public void study(); //norman //norman
 }
